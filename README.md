@@ -8,6 +8,6 @@ Copy the file `suissa.zsh-theme` to your oh-my-zsh theme folder `~/.oh-my-zsh/th
 
 Set `ZSH_THEME="suissa"` in your `~/.zshrc` file.
 
-Restart yout terminal.
+Restart your terminal.
 
 Be happy.
