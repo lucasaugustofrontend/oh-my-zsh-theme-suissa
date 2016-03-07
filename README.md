@@ -2,6 +2,8 @@
 
 My beautiful theme ><
 
+![](https://cldup.com/GtBMejKaiz.png)
+![](https://cldup.com/e5APYU2enp.png)
 ![](https://cldup.com/iyqJgX_4NZ.png)
 
 ## How to use
